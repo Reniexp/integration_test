@@ -10,7 +10,7 @@ class ListinTheme {
     primarySwatch: ListinColors.purple,
 
     // Cor de fundo em telas que usam Scaffold
-    scaffoldBackgroundColor: ListinColors.green,
+    scaffoldBackgroundColor: const Color.fromARGB(255, 101, 139, 228),
 
     // Tema dos FloatingActionButton
     floatingActionButtonTheme: const FloatingActionButtonThemeData(
